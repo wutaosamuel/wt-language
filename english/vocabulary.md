@@ -1,0 +1,67 @@
+# The Vocabulary Not in Mind
+
+## List
+
+Word | synonyms | Comment
+---- | --------
+conciliatory | &nbsp; | &nbsp;
+prohibitive | &nbsp; | &nbsp;
+prejudice | &nbsp; | &nbsp;
+desperately | &nbsp; | &nbsp;
+brink | &nbsp; | &nbsp;
+rug/rugged | &nbsp; | &nbsp;
+pledge | &nbsp; | &nbsp;
+contend | &nbsp; | &nbsp;
+contest | &nbsp; | &nbsp;
+stalemate| &nbsp; | &nbsp;
+relic | &nbsp; | &nbsp;
+extravagant | &nbsp; | &nbsp;
+dome | &nbsp; | &nbsp;
+sweep | &nbsp; | &nbsp;
+perk up | &nbsp; | &nbsp;
+ubiquitous | &nbsp; | &nbsp;
+grinder | &nbsp; | &nbsp;
+avalanche | &nbsp; | &nbsp;
+slarp off | &nbsp; | &nbsp;
+deputy/deputies | &nbsp; | &nbsp;
+resort | &nbsp; | &nbsp;
+stench | &nbsp; | &nbsp;
+eyesore | &nbsp; | &nbsp;
+ashore | &nbsp; | &nbsp;
+compose/decompose | &nbsp; | &nbsp;
+larvae | &nbsp; | &nbsp;
+runoff | &nbsp; | &nbsp;
+lateral | &nbsp; | &nbsp;
+prominent | &nbsp; | &nbsp;
+hormone | &nbsp; | &nbsp;
+chemotherapy | &nbsp; | &nbsp;
+folks | &nbsp; | &nbsp;
+somber | &nbsp; | &nbsp;
+lethal | &nbsp; | &nbsp;
+candid | &nbsp; | &nbsp;
+grief | &nbsp; | &nbsp;
+tabbed | &nbsp; | &nbsp;
+roar | &nbsp; | &nbsp;
+incentive | &nbsp; | &nbsp;
+exhaust | &nbsp; | &nbsp;
+whack | &nbsp; | &nbsp;
+vigilant | &nbsp; | &nbsp;
+thrill | &nbsp; | &nbsp;
+depository | &nbsp; | &nbsp;
+rogue | villain/tough/thug | &nbsp;
+verbally | oral | &nbsp;
+berate | blame | &nbsp;
+scrupulous | careful | &nbsp;
+sabotage | breakage | &nbsp;
+pot | container | &nbsp;
+spontaneous | &nbsp; | &nbsp;
+profound | extreme/showing understanding | &nbsp;
+exacerbate | deteriorate/worsen | &nbsp;
+limbo | &nbsp; | &nbsp;
+pursue | search/seek | &nbsp;
+allege | &nbsp; | &nbsp;
+deter | terrorize | &nbsp;
+deprive | strip/divest | &nbsp;
+audacity | &nbsp; | &nbsp;
+
+ | &nbsp; | &nbsp;
