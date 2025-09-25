@@ -1,9 +1,9 @@
-# The Vocabulary Not in Mind
+# The English Vocabulary Not in Mind
 
 ## List
 
 Word | synonyms | Comment
----- | --------
+---- | -------- | -------
 conciliatory | &nbsp; | &nbsp;
 prohibitive | &nbsp; | &nbsp;
 prejudice | &nbsp; | &nbsp;
@@ -340,5 +340,13 @@ proficiency | &nbsp; | &nbsp;
 deliberately | intentionally | &nbsp;
 undermine | &nbsp; | &nbsp;
 stereotype | a set idea | &nbsp;
+wreak | &nbsp; | &nbsp;
+lash | &nbsp; | &nbsp;
+lashed | &nbsp; | &nbsp;
+massacre | &nbsp; | &nbsp;
+genocide | &nbsp; | &nbsp;
+famine | &nbsp; | &nbsp;
+podium | &nbsp; | &nbsp;
+dexterity | &nbsp; | &nbsp;
 
  | &nbsp; | &nbsp;
