@@ -348,5 +348,8 @@ genocide | &nbsp; | &nbsp;
 famine | &nbsp; | &nbsp;
 podium | &nbsp; | &nbsp;
 dexterity | &nbsp; | &nbsp;
+commodity | &nbsp; | &nbsp;
+lump sum | &nbsp; | &nbsp;
+encompass | &nbsp; | &nbsp;
 
  | &nbsp; | &nbsp;
