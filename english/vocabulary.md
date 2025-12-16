@@ -381,5 +381,12 @@ reliant | &nbsp; | &nbsp;
 lame | &nbsp; | &nbsp;
 havoc | &nbsp; | &nbsp;
 tear/torn | &nbsp; | &nbsp;
+undergo | &nbsp; | &nbsp;
+bout/bouts | &nbsp; | &nbsp;
+consensus | &nbsp; | &nbsp;
+amateurish | inexpert/unskilled | &nbsp;
+perpetrator | &nbsp; | &nbsp;
+raid | &nbsp; | &nbsp;
+diabolical | &nbsp; | &nbsp;
 
  | &nbsp; | &nbsp;
